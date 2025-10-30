@@ -2,38 +2,46 @@ body {
     background-color: rgb(48, 255, 186);
     color: #2c0079;
 }
-        .my-span {
-            padding: 1px;
-            margin: 5px;
-            border: 1px solid #ff6347;
+    .my-span {
+        padding: 1px;
+        margin: 5px;
+        border: 1px solid #ff6347;
         }
 
-        .my-strong {
-            padding: 1px;
-            margin: 5px;
-            border: 1px solid #5d00ff;
+    .my-strong {
+        padding: 1px;
+        margin: 5px;
+        border: 1px solid #5d00ff;
         }
 
-        .my-spantwo {
-            padding: 1px;
-            margin: 0px;
-            border: 1px dashed #ff6347;
+    .my-spantwo {
+        padding: 1px;
+        margin: 0px;
+        border: 1px dashed #ff6347;
         }
 
-        .my-spanthree {
-            padding: 1px;
-            margin: 0px;
-            border: 1px dashed #ff6347;
+    .my-spanthree {
+        padding: 1px;
+        margin: 0px;
+        border: 1px dashed #ff6347;
         }
 
-        .my-spanfour {
-            padding: 1px;
-            margin: 0px;
-            border: 1px dashed #ff6347;
+    .my-spanfour {
+        padding: 1px;
+        margin: 0px;
+        border: 1px dashed #ff6347;
         }
 
-        .my-spanfive {
-            padding: 1px;
-            margin: 0px;
-            border: 1px dashed #ff6347;
+    .my-spanfive {
+        padding: 1px;
+        margin: 0px;
+        border: 1px dashed #ff6347;
+        }
+
+    #main-title {
+        text-decoration: underline;
+        }
+        
+    .centered-heading{
+        text-align: center;
         }
